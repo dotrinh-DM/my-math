@@ -1,4 +1,4 @@
-
+package fib;
 
 
 public class Main {
